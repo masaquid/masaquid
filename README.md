@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**masaquid/masaquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm masaquid.  
+Freelance developer mainly building web applications – and occasionally, my caffeine tolerance.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **JavaScript** 
+- Python
+- PHP & Ruby
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Career
+- Started as an indie developer, then spent 6 years as a professional programmer
+- Back to my roots: 10+ years now working independently
+
+## 🎮 Hobbies
+- Gaming (button mashing is a skill, right?)
+- Road cycling
+
+## 📱 Social
+- [X](https://x.com/masaquid)
+
+## 💬 Favorite Quote
+> "Never stop insisting on putting real milk in your coffee."
+
+---
+
+Feel free to reach out or follow me! I promise I only debug code – not people. 😄
+
+My primary language is Japanese. For other languages, I can communicate using translation tools.
