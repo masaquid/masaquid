@@ -17,7 +17,7 @@ Freelance developer mainly building web applications – and occasionally, my ca
 - Road cycling
 
 ## 📱 Social
-- [X](https://x.com/masaquid)
+- [X.com](https://x.com/masaquid)
 
 ## 💬 Favorite Quote
 > "Never stop insisting on putting real milk in your coffee."
