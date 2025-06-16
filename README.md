@@ -13,8 +13,7 @@ Freelance developer mainly building web applications – and occasionally, my ca
 - Back to my roots: 10+ years now working independently
 
 ## 🎮 Hobbies
-- Gaming (button mashing is a skill, right?)
-- Road cycling
+- Gaming / Road cycling
 
 ## 📱 Social
 - [X.com](https://x.com/masaquid)
@@ -25,5 +24,4 @@ Freelance developer mainly building web applications – and occasionally, my ca
 ---
 
 Feel free to reach out or follow me! I promise I only debug code – not people. 😄
-
 My primary language is Japanese. For other languages, I can communicate using translation tools.
